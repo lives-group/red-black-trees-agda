@@ -1,0 +1,6 @@
+%% compiled files
+*.agdai
+
+%% temporary files
+.DS_Store
+*~
